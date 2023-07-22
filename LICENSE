@@ -1,19 +1,18 @@
-1. You are NOT allowed to extract any personal information about Ishara M. Dissanayake.
-The dataset used to train this Rasa conversational AI assistant model contains personal 
-information related to Ishara M. Dissanayake and these data must strictly not be copied, 
-or utilized in any manner without a proper authorization of the owner.
+Ishara M. Dissanayake Personal Use License v1.0
 
-2. You can clone this repository and change it with your own personal data, however, you 
-are NOT allowed to re-publish this repository and publicly or personally deploy any 
-resulting rasa assistant trained on the original dataset of the owner of this repository.
+This license applies to thisisishara-ai-assistant, a personal yet free tool, developed by Ishara M. Dissanayake.
 
-3. You are fully entitled to extract any part of this repository that are not personal 
-information, PII, other information related to Ishara M. Dissanayake, sensitive 
-information, or security information that you may find in this repository.
+1. You are NOT allowed to extract or use any personal information, Personally Identifiable Information (PII), sensitive information, or security-related data about Ishara M. Dissanayake contained within the repository or dataset used to train this tool. Any access to or usage of such data is strictly prohibited without explicit authorization from the owner.
 
-4. Any copy made from this repository that adhears the above terms can be utilized as the 
-owner of the copied repository wish as long as it is not intended for any malicious intent.
+2. You may clone and modify this repository with your own personal data, but you are NOT allowed to re-publish, publicly or personally deploy any resulting tool trained on the original dataset containing personal information of Ishara M. Dissanayake, the owner of this repository.
 
-5. The owner of this repository CANNOT held accountable for any malicious or harmful intent 
-carried out using a copy of this original repository and DOES NOT allow to do so as stated 
-here in this license.
+3. You are fully entitled to extract and use any part of this repository that does not include personal information, PII, sensitive information, security-related data, or other information related to Ishara M. Dissanayake.
+
+4. Any copy made from this repository, adhering to the above terms, can be utilized by the owner of the copied repository for non-malicious purposes.
+
+5. The owner of this repository CANNOT be held accountable for any malicious or harmful intent carried out using a copy of this original repository and expressly disclaims any liability for such actions.
+
+By using or cloning this repository, you agree to the terms and conditions of this license. If you do not agree to these terms, you are NOT allowed to use or clone this repository.
+
+Ishara M. Dissanayake
+23/07/2023
