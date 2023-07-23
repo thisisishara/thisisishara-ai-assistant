@@ -1,2 +1,9 @@
-# thisisishara-ai-assistant
-Personal AI assistant served in my personal portfolio @https://thisisishara.com hosted in Hugging Face Spaces
+---
+title: Personal Rasa Ai Assistant
+emoji: ⚡
+colorFrom: red
+colorTo: yellow
+sdk: docker
+app_port: 5005
+pinned: false
+---
